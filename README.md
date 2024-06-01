@@ -9,7 +9,7 @@ Mobile Compatibility: Please note that the current version may not display corre
 **Technologies Used**
 Vue.js: Progressive JavaScript framework for building user interfaces.
 Vue Router: Official router for Vue.js, facilitating dynamic routing in the app.
-CSS Framework: Utilizes Bootstrap or Tailwind CSS for styling.
+CSS Framework: Utilizes Bootstrap / CSS for styling.
 
 **Installation**
 Clone the repository: bash / Copy code / git clone https://github.com/your-username/profile-website.git
